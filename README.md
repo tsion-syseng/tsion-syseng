@@ -59,5 +59,6 @@ Currently, I’m focused on exploring the intersection of **AI, automation, and 
 
 ---
 
-### Thanks for stopping by! Always open to collaboration, learning and sharing new ideas.* 🚀
+### Thanks for stopping by! 
+**Always open to collaboration, learning and sharing new ideas.** 🚀
 ---
