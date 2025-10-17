@@ -53,12 +53,12 @@ Currently, I’m focused on exploring the intersection of **AI, automation, and 
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-yilma/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tsion-syseng)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-yilma/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tsion-syseng) 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tsionmisrakyilma@gmail.com)
 
----
 
-### Thanks for stopping by! 
-**Always open to collaboration, learning and sharing new ideas.** 🚀
+---
+## Thanks for stopping by!  
+> *Always open to collaboration, learning and sharing new ideas.*
 ---
